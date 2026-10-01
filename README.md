@@ -11,7 +11,7 @@ Java 17, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, Maven, Docke
 - Pedidos e itens de pedido
 - Controle de estoque
 - Validação de dados
-- Autenticação preparada para JWT
+- Spring Security configurado como base para futura autenticação JWT (não implementada neste projeto)
 - Persistência PostgreSQL
 - Docker Compose
 
